@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import axios from 'axios';
 export default function Content() {
   const [products,setProducts] = useState([])
-  const url = "http://localhost:8080/"
+  const url = "https://backend-ue11.onrender.com"
 
   const getData = async () => {
     const response = await axios.get(url)
