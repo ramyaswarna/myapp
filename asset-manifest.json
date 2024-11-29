@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ramyaswarna/myapp/static/css/main.7a76d326.css",
-    "main.js": "/ramyaswarna/myapp/static/js/main.644578c5.js",
+    "main.js": "/ramyaswarna/myapp/static/js/main.e8918324.js",
     "index.html": "/ramyaswarna/myapp/index.html",
     "main.7a76d326.css.map": "/ramyaswarna/myapp/static/css/main.7a76d326.css.map",
-    "main.644578c5.js.map": "/ramyaswarna/myapp/static/js/main.644578c5.js.map"
+    "main.e8918324.js.map": "/ramyaswarna/myapp/static/js/main.e8918324.js.map"
   },
   "entrypoints": [
     "static/css/main.7a76d326.css",
-    "static/js/main.644578c5.js"
+    "static/js/main.e8918324.js"
   ]
 }
