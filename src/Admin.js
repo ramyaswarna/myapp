@@ -5,7 +5,7 @@ export default function Admin() {
     const [price, setPrice] = useState()
     const [desc, setDesc] = useState()
     const [url, setUrl] = useState()
-    const api = "http://localhost:8080/"
+    const api = "https://backend-ue11.onrender.com"
     const addProduct = async () => {
         await axios.post(api, {name:name,price:price,desc:desc,url:url})
     }
